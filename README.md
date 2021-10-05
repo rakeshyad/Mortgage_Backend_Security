@@ -3,12 +3,8 @@ Predicting Mortgage Backed Securities Prepayment Using Machine Learning
 
 App link - https://msbriskpredictor.herokuapp.com/
 
-# Predicting-Mortgage-Backed-Securities-Prepayment-Using-Machine-Learning
-Predicting Mortgage Backed Securities Prepayment Using Machine Learning
+![1200px-Freddie_Mac svg](https://user-images.githubusercontent.com/78646864/136017729-8b90fe01-9fdc-4840-8887-b271c266e51c.png)
 
-App link - https://msbriskpredictor.herokuapp.com/
-
-![MBS_image](https://user-images.githubusercontent.com/54249224/135236781-38eeced0-81b3-4abc-893d-cf1a049bc0a8.jpg)
 
 
 ## Introduction
